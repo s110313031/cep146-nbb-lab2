@@ -1,2 +1,2 @@
 # cep146-nbb-lab2
-Demo repo for Lab2 0n Jan 21
+Portfolio of my work and projects for CEP146-NBB
