@@ -4,10 +4,10 @@
 Welcome to my academic portfolio for (put your course name and section here)!
  
 ## About Me
-- Name: (put your name here)
-- Program: (put your program name here)
-- Year: (put your academic year and semester here)
-- Favorite Programming Language: (put your choice here)
+- Name: Li-Hsiang Wang
+- Program: Computer Programing & Analysis
+- Year: 1st yesr, 1st semester
+- Favorite Programming Language: C
  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
